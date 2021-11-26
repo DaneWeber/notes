@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "d15f071f33b22636",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a1b7565dd87dc92",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Software Development for Executives.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d95da554489238e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "153e3bab8691809b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85a3f7f95d5a729f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "838e6d2fcc7c048d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d43f13aef9d1b259",
+    "type": "split",
+    "children": [
+      {
+        "id": "782fafe35c3fffb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13bbe1273ebc65d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software Development for Executives.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5a1b7565dd87dc92",
+  "lastOpenFiles": [
+    "Software Development for Executives.md"
+  ]
+}
